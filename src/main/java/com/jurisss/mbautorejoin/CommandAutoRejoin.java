@@ -157,6 +157,8 @@ public class CommandAutoRejoin extends CommandBase {
                 try {
                     Thread.sleep(13000);
                     setAutoRejoinEnabled(true);
+                    player.addChatMessage(new ChatComponentText("[Debug] enabled"));
+                    
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
@@ -226,12 +228,14 @@ public class CommandAutoRejoin extends CommandBase {
             });
         } else if (!gameDetectionMessageSent && niLobby(message)) {
             setInLobby(false);
+            disableAutoRejoin = false;
             Minecraft.getMinecraft().thePlayer.addChatMessage(new ChatComponentText("No longer in the lobby"));
             gameDetectionMessageSent = true;
             CompletableFuture.runAsync(() -> {
                 try {
                     Thread.sleep(50);
                     gameDetectionMessageSent = false;
+                    Minecraft.getMinecraft().thePlayer.addChatMessage(new ChatComponentText("Autorejoin aaaa"));
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
