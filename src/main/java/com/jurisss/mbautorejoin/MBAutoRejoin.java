@@ -85,8 +85,8 @@ public class MBAutoRejoin {
                             "\u00A7r\u00A7eCommands:\n" +
                             "\u00A7r\u00A7a\u2192 \u00A7r/autorejoin (on/off) - Enable/disable auto rejoin\n\n" +
                             "\u00A7r\u00A7bThis Mod Was Made By \u00A7r\u00A73Jurisss\n" +
-                            "\n\u00A7r\u00A7eDiscord: [https://discord.gg/KN6fScv6cs](https://discord.gg/KN6fScv6cs)\n" +
-                            "\u00A7r\u00A7eWebsite: [https://juriss.xyz/](https://juriss.xyz/)";    
+                            "\n\u00A7r\u00A7eDiscord: discord.gg/KN6fScv6cs\n" +
+                            "\u00A7r\u00A7eWebsite: juriss.xyz";    
     
                             String messageText = String.format(messageFormat, username);
                             IChatComponent message = new ChatComponentText(messageText);
