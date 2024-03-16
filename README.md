@@ -1,4 +1,4 @@
-## MBBWQolMod - Enhancing Your Mineberry Bedwars Experience
+## MBAutoRejoin - Ruining other player's stats.
 
 MBAutoRejoin, or the Mineberry Automatic Rejoin mod, allows players to leave and rejoin the game after falling into the void.
 
