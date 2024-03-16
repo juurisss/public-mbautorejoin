@@ -7,7 +7,7 @@ MBAutoRejoin, or the Mineberry Automatic Rejoin mod, allows players to leave and
 ### /autorejoin (on/off) - Enable/Disable autorejojn
 This enables or disables the functionallity of the mod.
 
-## Discord
+## Links
 
 ### Join our Discord server!
 [https://discord.gg/KN6fScv6cs](https://discord.gg/KN6fScv6cs)
