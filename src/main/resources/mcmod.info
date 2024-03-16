@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mbautorejoin",
+  "name": "Mineberry Bedwars AutoRejoin",
+  "description": "Made by Jurisss",
+  "version": "1.1",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EjurisYT", "Jurisss"],
+  "credits": "Juuriss",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
