@@ -1,5 +1,5 @@
 /**
- * Copyright © 2024 EjurisYT
+ * Copyright © 2024 Jurix
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -235,7 +235,7 @@ public class CommandAutoRejoin extends CommandBase {
                 try {
                     Thread.sleep(50);
                     gameDetectionMessageSent = false;
-                    Minecraft.getMinecraft().thePlayer.addChatMessage(new ChatComponentText("Autorejoin aaaa"));
+                    Minecraft.getMinecraft().thePlayer.addChatMessage(new ChatComponentText("Autorejoin init"));
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

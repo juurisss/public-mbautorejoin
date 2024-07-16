@@ -1,5 +1,5 @@
 /**
- * Copyright © 2024 EjurisYT
+ * Copyright © 2024 Jurix
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -86,7 +86,7 @@ public class MBAutoRejoin {
                             "\u00A7r\u00A7a\u2192 \u00A7r/autorejoin (on/off) - Enable/disable auto rejoin\n\n" +
                             "\u00A7r\u00A7bThis Mod Was Made By \u00A7r\u00A73Jurisss\n" +
                             "\n\u00A7r\u00A7eDiscord: discord.gg/KN6fScv6cs\n" +
-                            "\u00A7r\u00A7eWebsite: juriss.xyz";    
+                            "\u00A7r\u00A7eWebsite: mb.juriss.xyz";    
     
                             String messageText = String.format(messageFormat, username);
                             IChatComponent message = new ChatComponentText(messageText);
