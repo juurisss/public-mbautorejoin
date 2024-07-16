@@ -13,7 +13,7 @@ This enables or disables the functionallity of the mod.
 [https://discord.gg/KN6fScv6cs](https://discord.gg/KN6fScv6cs)
 
 ### Visit my website!
-[https://juriss.xyz/](https://juriss.xyz/) 
-[https://mb.juriss.xyz/](https://mb.juriss.xyz/)
+ [https://juriss.xyz/](https://juriss.xyz/) 
+ [https://mb.juriss.xyz/](https://mb.juriss.xyz/)
 
 **Note:** If the mod doesn't work for you for some reason, please join the Discord server provided above.
