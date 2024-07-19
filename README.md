@@ -18,3 +18,5 @@ This enables or disables the functionallity of the mod.
  [https://mb.juriss.xyz/](https://mb.juriss.xyz/) 
 
 **Note:** If the mod doesn't work for you for some reason, please join the Discord server provided above.
+
+**TAGS (Ignore):** Mineberry, Mineberry Bedwars, Mineberry Bedwars Autorejoin, Mineberry Mod, Mod, Mods, Juris, Juriss, Juriss.xyz, Jur1s, Jur1ss, Jur1ss.xyz, rejoin mod, auto rejoin, ejuris12390, EjurisYT, mb.juriss.xyz, mb.jur1ss.xyz
