@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project is archived and no longer maintained. It was developed several years ago, and some features, dependencies, or functionality may no longer work as expected. The repository is preserved for reference and educational purposes.
+
 ## MBAutoRejoin - Ruining other player's stats.
 
 MBAutoRejoin, or the Mineberry Automatic Rejoin mod, allows players to leave and rejoin the game when it detects the player is falling into the void. THIS IS A FORGE 1.8.9 MOD
