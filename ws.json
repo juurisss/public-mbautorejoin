@@ -1,0 +1,16 @@
+{
+  "id": "public-mbautorejoin",
+  "displayName": "MBAutoRejoin",
+  "description": "A modification to automatically leave and rejoin when falling down the void in Mineberry.",
+  "longDescription": "A Forge 1.8.9 mod for the Mineberry server that detects when a player is falling into the void and automatically leaves and rejoins the game to prevent stat loss.",
+  "status": "archived",
+  "statusNote": "This project is archived and no longer maintained. It was developed several years ago and some features, dependencies, or functionality may no longer work as expected. Preserved for reference.",
+  "primaryLanguage": "Java",
+  "technologies": ["Java", "Minecraft mod (client commands)", "Gradle"],
+  "categories": ["minecraft", "automation", "software"],
+  "featured": true,
+  "commands": [
+    { "cmd": "/autorejoin (on/off)", "desc": "Enable or disable the auto-rejoin behavior." }
+  ],
+  "license": "MIT"
+}
